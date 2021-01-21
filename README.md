@@ -10,4 +10,5 @@ git remote add origin https://github.com/acoteff/cellar_door.git
 git push -u origin master
 ```                
 
-Things go here. Once I figure out how this all works.
+Work that I have accomplished.
+
